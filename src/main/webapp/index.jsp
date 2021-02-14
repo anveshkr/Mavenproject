@@ -9,6 +9,6 @@ ot@ip-172-31-32-86 webapp]# vim
 
 <html>
 <body>
-<h2>Are you able to see the project 1 deployement??</h2>
+<h2>Today is February 14. Happy Valentines day!!</h2>
 </body>
 </html>
